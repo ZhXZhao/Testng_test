@@ -40,15 +40,7 @@ public class QuickSort {
 	 */
 	public static int[] quickSort(int[] target, int left, int right) {
 		if(right > left){     // 递归终止条件
-			for(int i = 0;i<target.length;i++){
-				System.out.print(target[i]+" ");
-			}
 			int base_index = partition(target,left, right);  // 原序列划分后基准元素的位置
-
-			System.out.println(" ");
-			System.out.println("index: "+base_index);
-			System.out.println("left: "+left);
-			System.out.println("right: "+right);
 			quickSort(target, left, base_index-1);    // 对第一个子序列快速排序，不包含基准元素！
 			quickSort(target, base_index+1, right);   // 对第二个子序列快速排序，不包含基准元素！
 		}
