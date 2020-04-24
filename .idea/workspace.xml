@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fc438ad-1418-45ba-85fb-f657769b4da2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="TestNG Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1acxdUzw928zlqURk17YEOHkwu2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="sort" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.QuickSortTest.testQuickSort">
+    <configuration name="E:/githubcode/Testng_test/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testng_test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortTest.testMerge" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testng_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sort" />
+      <option name="MAIN_CLASS_NAME" value="sort.MergeSortTest" />
+      <option name="METHOD_NAME" value="testMerge" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSortTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testng_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sort" />
+      <option name="MAIN_CLASS_NAME" value="sort.QuickSortTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSortTest.testQuickSort" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testng_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sort" />
+      <option name="MAIN_CLASS_NAME" value="sort.QuickSortTest" />
+      <option name="METHOD_NAME" value="testQuickSort" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StraightSelectSortTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testng_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sort" />
+      <option name="MAIN_CLASS_NAME" value="sort.StraightSelectSortTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.QuickSortTest.testQuickSort" />
+        <item itemvalue="TestNG.QuickSortTest" />
+        <item itemvalue="TestNG.MergeSortTest.testMerge" />
+        <item itemvalue="TestNG.E:/githubcode/Testng_test/testng.xml" />
+        <item itemvalue="TestNG.StraightSelectSortTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fc438ad-1418-45ba-85fb-f657769b4da2" name="Default Changelist" comment="" />
+      <created>1587048770212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587048770212</updated>
+      <workItem from="1587048771591" duration="3473000" />
+      <workItem from="1587097293544" duration="2202000" />
+      <workItem from="1587216955968" duration="2705000" />
+      <workItem from="1587219669562" duration="3334000" />
+      <workItem from="1587559581042" duration="455000" />
+      <workItem from="1587560053141" duration="10257000" />
+      <workItem from="1587612754430" duration="604000" />
+      <workItem from="1587714574281" duration="1543000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1093" height="493" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1587218815085">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1093" height="493" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1587218815085" />
+    <state x="422" y="97" key="FileChooserDialogImpl" timestamp="1587560100210">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587560100210" />
+    <state width="1282" height="213" key="GridCell.Tab.0.bottom" timestamp="1587584634910">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1282" height="213" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587584634910" />
+    <state width="1282" height="213" key="GridCell.Tab.0.center" timestamp="1587584634910">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1282" height="213" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587584634910" />
+    <state width="1282" height="213" key="GridCell.Tab.0.left" timestamp="1587584634910">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1282" height="213" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587584634910" />
+    <state width="1282" height="213" key="GridCell.Tab.0.right" timestamp="1587584634910">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1282" height="213" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587584634910" />
+    <state width="1282" height="213" key="GridCell.Tab.1.bottom" timestamp="1587584634914">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1282" height="213" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587584634914" />
+    <state width="1282" height="213" key="GridCell.Tab.1.center" timestamp="1587584634914">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1282" height="213" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1587584634914" />
+    <state width="1282" height="213" key="GridCell.Tab.1.left" timestamp="1587584634914">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1282" height="213" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1587584634914" />
+    <state width="1282" height="213" key="GridCell.Tab.1.right" timestamp="1587584634914">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1282" height="213" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1587584634914" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1587560101621">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587560101621" />
+    <state x="324" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1587714573335">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="324" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/404.-1080.1920.1040@0.0.1280.680" timestamp="1587714573335" />
+    <state x="324" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587560052750" />
+    <state x="412" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587221566418">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1587221566418" />
+    <state x="319" y="72" width="641" height="534" key="find.popup" timestamp="1587222152285">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="319" y="72" width="641" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1587222152285" />
+  </component>
+</project>

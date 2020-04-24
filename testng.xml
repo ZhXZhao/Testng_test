@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+
+
+    <test name="All_sort">
+        <classes>
+            <class name="sort.BinaryInsertSortTest"></class>
+            <class name="sort.BubbleSortTest"></class>
+            <class name="sort.HeapSortTest"></class>
+            <class name="sort.MergeSortTest"></class>
+            <class name="sort.QuickSortTest"></class>
+            <class name="sort.RadixSortTest"></class>
+            <class name="sort.ShellSortTest"></class>
+            <class name="sort.StraightInsertionSortTest"></class>
+            <class name="sort.StraightSelectSortTest"></class>
+        </classes>
+        
+        
+    </test>
+    
+    <test name="Part_sort">
+        <classes>
+            <class name="sort.BinaryInsertSortTest"></class>
+        </classes>
+        
+    </test>
+
+</suite>
